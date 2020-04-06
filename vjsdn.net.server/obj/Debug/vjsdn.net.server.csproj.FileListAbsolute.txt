@@ -1,0 +1,8 @@
+C:\Users\Administrator\Desktop\UDP_Hole_Punching\Debug\vjsdn.net.server.exe
+C:\Users\Administrator\Desktop\UDP_Hole_Punching\Debug\vjsdn.net.server.pdb
+C:\Users\Administrator\Desktop\UDP_Hole_Punching\vjsdn.net.server\obj\Debug\vjsdn.net.server.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\UDP_Hole_Punching\vjsdn.net.server\obj\Debug\P2PServer.frmServer.resources
+C:\Users\Administrator\Desktop\UDP_Hole_Punching\vjsdn.net.server\obj\Debug\vjsdn.net.server.Properties.Resources.resources
+C:\Users\Administrator\Desktop\UDP_Hole_Punching\vjsdn.net.server\obj\Debug\vjsdn.net.server.csproj.GenerateResource.Cache
+C:\Users\Administrator\Desktop\UDP_Hole_Punching\vjsdn.net.server\obj\Debug\vjsdn.net.server.exe
+C:\Users\Administrator\Desktop\UDP_Hole_Punching\vjsdn.net.server\obj\Debug\vjsdn.net.server.pdb

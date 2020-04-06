@@ -1,0 +1,8 @@
+D:\vjsdn.tech\vjsdn.net\Debug\vjsdn.net.server.exe
+D:\vjsdn.tech\vjsdn.net\Debug\vjsdn.net.server.pdb
+D:\vjsdn.tech\vjsdn.net\vjsdn.net.server\obj\Debug\ResolveAssemblyReference.cache
+D:\vjsdn.tech\vjsdn.net\vjsdn.net.server\obj\Debug\P2PServer.frmServer.resources
+D:\vjsdn.tech\vjsdn.net\vjsdn.net.server\obj\Debug\vjsdn.net.server.Properties.Resources.resources
+D:\vjsdn.tech\vjsdn.net\vjsdn.net.server\obj\Debug\vjsdn.net.server.csproj.GenerateResource.Cache
+D:\vjsdn.tech\vjsdn.net\vjsdn.net.server\obj\Debug\vjsdn.net.server.exe
+D:\vjsdn.tech\vjsdn.net\vjsdn.net.server\obj\Debug\vjsdn.net.server.pdb

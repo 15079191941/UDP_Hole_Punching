@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vjsdn.net.library", "vjsdn.net.library\vjsdn.net.library.csproj", "{A174C643-C2C1-461A-9F5A-4E2461F9D579}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vjsdn.net.server", "vjsdn.net.server\vjsdn.net.server.csproj", "{4F68FA05-0367-44B4-9A64-D9399308BAB1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "vjsdn.net.client", "vjsdn.net.client\vjsdn.net.client.csproj", "{AC8AC45C-A083-41D5-A34E-81777129C443}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A174C643-C2C1-461A-9F5A-4E2461F9D579}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A174C643-C2C1-461A-9F5A-4E2461F9D579}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A174C643-C2C1-461A-9F5A-4E2461F9D579}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A174C643-C2C1-461A-9F5A-4E2461F9D579}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F68FA05-0367-44B4-9A64-D9399308BAB1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F68FA05-0367-44B4-9A64-D9399308BAB1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F68FA05-0367-44B4-9A64-D9399308BAB1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F68FA05-0367-44B4-9A64-D9399308BAB1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC8AC45C-A083-41D5-A34E-81777129C443}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC8AC45C-A083-41D5-A34E-81777129C443}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC8AC45C-A083-41D5-A34E-81777129C443}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC8AC45C-A083-41D5-A34E-81777129C443}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,4 @@
+C:\Users\Administrator\Desktop\UDP_Hole_Punching\Debug\vjsdn.net.library.dll
+C:\Users\Administrator\Desktop\UDP_Hole_Punching\Debug\vjsdn.net.library.pdb
+C:\Users\Administrator\Desktop\UDP_Hole_Punching\vjsdn.net.library\obj\Debug\vjsdn.net.library.dll
+C:\Users\Administrator\Desktop\UDP_Hole_Punching\vjsdn.net.library\obj\Debug\vjsdn.net.library.pdb

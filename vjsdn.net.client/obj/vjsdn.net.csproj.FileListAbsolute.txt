@@ -1,0 +1,4 @@
+D:\vjsdn.tech\vjsdn.net\vjsdn.net\obj\Debug\ResolveAssemblyReference.cache
+D:\vjsdn.tech\vjsdn.net\vjsdn.net\obj\Debug\vjsdn.net.Properties.Resources.resources
+D:\vjsdn.tech\vjsdn.net\vjsdn.net\obj\Debug\vjsdn.net.csproj.GenerateResource.Cache
+D:\vjsdn.tech\vjsdn.net\vjsdn.net\obj\Debug\vjsdn.net.Form1.resources

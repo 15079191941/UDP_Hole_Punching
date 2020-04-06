@@ -1,0 +1,5 @@
+D:\vjsdn.tech\vjsdn.net\Debug\vjsdn.net.library.dll
+D:\vjsdn.tech\vjsdn.net\Debug\vjsdn.net.library.pdb
+D:\vjsdn.tech\vjsdn.net\vjsdn.net.library\obj\Debug\ResolveAssemblyReference.cache
+D:\vjsdn.tech\vjsdn.net\vjsdn.net.library\obj\Debug\vjsdn.net.library.dll
+D:\vjsdn.tech\vjsdn.net\vjsdn.net.library\obj\Debug\vjsdn.net.library.pdb
